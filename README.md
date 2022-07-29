@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yalçın</h1>
  
-  <p> - I'm Yalçın .Net Developer since 2012 </p>
+  <p> - I'm Yalçın, PHP Developer since 2012 </p>
   <p> - I'm trying to support open source projects and when I try new techs I try to share via Github with examples. </p>
   <p> - I've developed erp, crm, custom cms, e-commerce applications with teams. </p>
   <p> - Currently, I continue to develop on new technologies.</p>
 
 
-- 🌱 I’m currently learning **React, Vue, Angular, Go**
+- 🌱 I’m currently learning **React, Vue, Angular, Go, .Net**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yalcinkav/](https://www.linkedin.com/in/yalcinkav/)
 
