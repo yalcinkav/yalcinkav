@@ -6,7 +6,7 @@
   <p> - Currently, I continue to develop on new technologies.</p>
 
 
-- 🌱 I’m currently learning **React, Vue, Angular, Go, .Net**
+- 🌱 I’m currently learning **React, Next.js, Node.js, Angular, Go, .Net**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yalcinkav/](https://www.linkedin.com/in/yalcinkav/)
 
